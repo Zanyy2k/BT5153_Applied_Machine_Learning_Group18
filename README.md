@@ -8,8 +8,8 @@ These README will give you an idea on what each code documents is and what comma
 
 ### Prerequisites
 
-Python 3.x
-Tensorflow 2.2.0-rc3
+* Python 3.x
+* Tensorflow 2.2.0-rc3
 
 ### Datasets 
 
