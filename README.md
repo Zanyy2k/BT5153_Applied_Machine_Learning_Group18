@@ -37,7 +37,7 @@ Tensorflow 2.2.0-rc3
 
 ## Authors
 
+* Cao Huimin 
 * Yang Qing 
 * Yu Zongdong 
 * Zhang Meng
-* Cao Huimin 
