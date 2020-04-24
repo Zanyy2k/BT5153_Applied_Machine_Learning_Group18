@@ -1,6 +1,3 @@
-
-## Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
-
 # BT5153_Applied_Machine_Learning_Group18
 
 Head off Toxic comments in social media
