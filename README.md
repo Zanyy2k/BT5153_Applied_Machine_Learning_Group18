@@ -34,10 +34,3 @@ Tensorflow 2.2.0-rc3
 6. logreg_severe_toxic_model.pkl - The trained logregression model for severe category
 7. logreg_threat_model.pkl - The trained logregression model for threat category
 7. logreg_toxic_model.pkl - The trained logregression model for toxic category
-
-## Authors
-
-* Cao Huimin 
-* Yang Qing 
-* Yu Zongdong 
-* Zhang Meng
