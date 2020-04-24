@@ -11,7 +11,7 @@ These README will give you an idea on what each code documents is and what comma
 Python 3.x
 Tensorflow 2.2.0-rc3
 
-### Data 
+### Datasets 
 
 1. Toxic_comment.csv - Main dataset for this project, We removed the id column due to github file size limitation. It is the training data for Toxic Comment Classification Challenge in Kaggle Competition (https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data)
 
@@ -19,4 +19,26 @@ Tensorflow 2.2.0-rc3
 
 ### Code Documents
 
-1. 
+1. Tweets_scrapping.py - To scrap old tweets
+2. EDA_Kaggle_Dataset.ipynb - Exploratory data analysis on the Toxic_comment dataset
+3. LDA_Kaggle_Dataset.ipynb - Topic Modeling on the Toxic_comment dataset
+4. LDA_Scraped_Dataset.ipynb - Topic Modeling on the combined scrap dataset
+5. 
+
+### Python Dashboard
+
+1. Dashboard.py - The main file and entry point to our dashboard
+2. count_vect.pickel - The training data in vectorized form 
+3. logreg_identity_hate_model.pkl 	- The trained logregression model for identity_hate category
+4. logreg_insult_model.pkl - The trained logregression model for insult category
+5. logreg_obscene_model.pkl - The trained logregression model for obscene category
+6. logreg_severe_toxic_model.pkl - The trained logregression model for severe category
+7. logreg_threat_model.pkl - The trained logregression model for threat category
+7. logreg_toxic_model.pkl - The trained logregression model for toxic category
+
+## Authors
+
+* Yang Qing 
+* Yu Zongdong 
+* Zhang Meng
+* Cao Huimin 
