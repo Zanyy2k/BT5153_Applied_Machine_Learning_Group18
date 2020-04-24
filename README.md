@@ -19,7 +19,7 @@ These README will give you an idea on what each code documents is and what comma
 
 ### Code Documents
 
-1. Tweets_scrapping.py - To scrap old tweets
+1. Tweets_scraping.py - To scrap old tweets
 2. EDA_Kaggle_Dataset.ipynb - Exploratory data analysis on the Toxic_comment dataset
 3. LDA_Kaggle_Dataset.ipynb - Topic Modeling on the Toxic_comment dataset
 4. LDA_Scraped_Dataset.ipynb - Topic Modeling on the combined scrap dataset
